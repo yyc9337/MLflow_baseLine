@@ -1,5 +1,5 @@
 # MLflow_baseLine
-
+### MLflow의 주요 4가지 기능
 - MLflow는 End to End로 머신러닝 라이프 사이클을 관리할 수 있는 오픈소스
     - 데이터브릭스에서 만듬
     - 데이터브릭스 hosted version
@@ -16,4 +16,14 @@
 
 
 
-![image](https://user-images.githubusercontent.com/69188513/162098849-ceecc360-2bbc-4c5d-8ec1-62531c70cfa1.png)
+### MLflow 홈화면
+<br>
+
+<img src="img/mlflow_home.jpg">
+
+
+### MLflow 결과 화면
+<br>
+
+<img src="img/mlflow_metrics.jpg">
+
