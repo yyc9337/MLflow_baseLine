@@ -13,3 +13,7 @@
     - 다양한 ML 라이브러리에서 모델을 관리하고 배포, Serving, 추론
 - REST API, CLI를 통해 모든 기능에 액세스 할 수 있기 때문에 모든 라이브러리, 프로그래밍 언어에서 사용 가능
 - API는 Python, R, Java 존재
+
+
+
+![image](https://user-images.githubusercontent.com/69188513/162098849-ceecc360-2bbc-4c5d-8ec1-62531c70cfa1.png)
